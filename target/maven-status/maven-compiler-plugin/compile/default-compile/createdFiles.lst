@@ -1,0 +1,6 @@
+lgw\message\Student.class
+lgw\controller\StudentController.class
+lgw\service\StudentService.class
+lgw\Main.class
+lgw\advice\LogAdvice.class
+lgw\mapper\StudentMapper.class
